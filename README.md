@@ -1,0 +1,1 @@
+# atv_soma_de_valores_paralelos
