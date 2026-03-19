@@ -1,7 +1,7 @@
 # Relatório da Soma de Valores em Paralelo
 
 **Disciplina:** PROGRAMAÇÃO CONCORRENTE E DISTRIBUÍDA 
-**Aluno(s):** TIAGO GERALDO DE LIMA COSME
+**Aluno(s):** Samuel Henrique lima Cançado 068351
 **Turma:** SISTEMAS DE INFORMAÇÃO
 **Professor:** RAFAEL 
 **Data:** 18/03/2026
